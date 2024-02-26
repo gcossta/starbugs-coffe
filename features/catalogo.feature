@@ -9,8 +9,6 @@ Cenário: Acessar o catálogo de cafés na página principal
     Quando acesso a página principal da Starbugs
     Então eu devo ver uma lista de cafés disponíveis
 
-
-@temp
 Cenário: Iniciar a compra de um café
 
     Dado que estou na página principal da Starbugs
